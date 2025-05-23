@@ -1,6 +1,6 @@
-Cinema 4D & Houdini / Pipeline или ПАЙПЛАЙН 
+# Cinema 4D и Houdini - ПАЙПЛАЙН 
 
-# 🔹 Коротко:
+## 🔹 Коротко:
 
 Best Format for Transferring: Alembic (.abc)  
 Export From C4D to Houdini: Alembic Scale – 0.05 Millimeters / Или Transform Node с Uniform Scale = 0.005  

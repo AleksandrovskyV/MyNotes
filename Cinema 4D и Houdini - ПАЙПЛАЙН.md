@@ -96,3 +96,12 @@ Alembic в Cinema 4D стал нативным, и лучше работать �
 
 
 Заметка, since 2016 👌
+
+
+### 🏷 Tags
+
+`cinema-4d` `c4d` `houdini` `alembic` `pipeline` `houdini-to-c4d`
+`export` `import` `fps` `scale` `animation` `workflow`  `c4d-to-houdini`
+
+<!-- SEO: cinema4d houdini alembic pipeline export import fps scale animation 3d workflow dynamics vellum dop -->
+

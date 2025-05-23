@@ -91,8 +91,8 @@ Alembic в Cinema 4D стал нативным, и лучше работать �
 Экспорт точек (частицы):
 В Alembic реализована поддержка как poly-points, так и particle geometry.  
 
-Супер-ссылка 1 –  
-Супер-ссылка 2 –  
+Супер-ссылка 1 – _[Houdini Alembic particles to C4D](https://vimeo.com/393436800)_ by Pixel Ninja  
+Супер-ссылка 2 – _[Read particle attributes from .abc sequences in RS](https://vimeo.com/269503540)_ by Paolo Rava   
 
 
 Заметка, since 2016 👌

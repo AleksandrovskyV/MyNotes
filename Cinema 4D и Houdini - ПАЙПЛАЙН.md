@@ -8,7 +8,7 @@ Export From C4D to Houdini: Alembic Scale – 0.05 Millimeters   / _Или Trans
 Import From Houdini to C4D: Alembic Scale – 2 Meters  
 
 И не забывай, что в программах должен быть одинаковый FPS проекта, а STARTFRAME у них отличается на 1 кадр 
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
   
   
 ## 🔹 Детально:

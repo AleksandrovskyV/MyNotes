@@ -4,7 +4,7 @@
 
 Best Format for Transferring: Alembic (.abc) 
 
-Export From C4D to Houdini: Alembic Scale – 0.05 Millimeters / _Или Transform Node с Uniform Scale =_ 0.005  
+Export From C4D to Houdini: Alembic Scale – 0.05 Millimeters   / _Или Transform Node с Uniform Scale = 0.005_  
 Import From Houdini to C4D: Alembic Scale – 2 Meters  
 
 И не забывай, что в программах должен быть одинаковый FPS проекта, а STARTFRAME у них отличается на 1 кадр 

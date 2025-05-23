@@ -97,6 +97,8 @@ Rendering Spline Tags (RS / Arnold / Octane и т.п.) или Sweep-объект
 Супер-ссылка 2 – _[Read particle attributes from .abc sequences in RS](https://vimeo.com/269503540)_ by Paolo Rava   
 
 
+&nbsp;
+
 Заметка, since 2016 👌
 
 

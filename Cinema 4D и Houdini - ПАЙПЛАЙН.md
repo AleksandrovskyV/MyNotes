@@ -55,7 +55,7 @@ Import From Houdini to C4D: Alembic Scale – 2 Meters
 
 
 Чаще корректирую FPS в Houdini, так как сцену собираю преимущественно в Cinema 4D.  
-При импорте сцены в Houdini в ноде Alembic в параметре Frame я "чаще"" отнимаю единицу: $F-1, но  
+При импорте сцены в Houdini в ноде Alembic в параметре Frame я "чаще" отнимаю единицу: $F-1, но  
 способ $F-1 с использованием ноды Timeshift в параметре Frame тоже хороший.  
 
 Экспортируя сцену из C4D в Houdini:  

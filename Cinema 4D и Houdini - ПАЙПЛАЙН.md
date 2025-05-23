@@ -98,6 +98,9 @@ Alembic в Cinema 4D стал нативным, и лучше работать �
 Заметка, since 2016 👌
 
 
+&nbsp;
+
+
 ### 🏷 Tags
 
 `cinema-4d` `c4d` `houdini` `alembic` `pipeline` `houdini-to-c4d`  

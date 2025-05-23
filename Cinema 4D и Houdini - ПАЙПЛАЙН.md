@@ -3,6 +3,7 @@
 ## 🔹 Коротко:
 
 &nbsp;
+
 Best Format for Transferring: Alembic (.abc) 
 
 Export From C4D to Houdini: Alembic Scale – 0.05 Millimeters   / _Или Transform Node с Uniform Scale = 0.005_  
